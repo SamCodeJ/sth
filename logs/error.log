@@ -1,0 +1,198 @@
+2025-01-29 13:38:35 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 13:38:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 13:38:50 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 13:58:15 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 13:58:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 13:59:23 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 13:59:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:01:48 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 2) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:26 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:29 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:29 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:29 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:30 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:32 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:34 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:35 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:35 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:35 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:35 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:35 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:36 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:36 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:36 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:36 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:36 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:41 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:03:43 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:38 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:04:39 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:13 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:13 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:13 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:13 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:13 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:13 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:13 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:14 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:14 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:05:14 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:06:11 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:07:02 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:07:58 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:08:05 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:09:40 [8] session_start(): Ignoring session_start() because a session is already active (started from C:\wamp64\www\test\includes\auth_check.php on line 3) in C:\wamp64\www\test\includes\AuthMiddleware.php on line 12
+2025-01-29 14:11:50 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:11:50 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:11:50 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:11:50 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:11:50 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:11:50 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:11:59 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:11:59 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:11:59 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:11:59 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:11:59 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:11:59 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:12:02 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:12:02 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:12:02 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:12:02 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:12:02 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:12:02 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:12:04 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:12:04 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:12:04 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:12:04 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:12:04 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:12:04 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:12:35 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:12:35 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:12:35 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:12:35 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:12:35 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:12:35 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:15:49 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:15:49 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:15:49 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:15:49 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:15:49 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:15:49 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:22 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:22 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:22 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:22 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:22 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:22 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:27 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:27 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:27 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:27 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:27 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:27 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:33 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:33 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:33 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:33 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:33 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:33 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:37 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:37 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:37 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:37 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:37 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:37 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:41 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:41 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 58
+2025-01-29 14:27:41 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:41 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 64
+2025-01-29 14:27:41 [2] Undefined variable $stats in C:\wamp64\www\test\admin\dashboard.php on line 70
+2025-01-29 14:27:41 [2] Trying to access array offset on null in C:\wamp64\www\test\admin\dashboard.php on line 70
