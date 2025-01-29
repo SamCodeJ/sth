@@ -1,15 +1,15 @@
 -- Create secure user for application
-CREATE USER 'stellar_app'@'localhost' IDENTIFIED BY 'strong_password_here';
+CREATE USER 'stellar_app'@'127.0.0.1:3306' IDENTIFIED BY 'strong_password_here';
 
 -- Grant specific permissions
-GRANT SELECT, INSERT, UPDATE ON stellar_tech.students TO 'stellar_app'@'localhost';
-GRANT SELECT, INSERT, UPDATE ON stellar_tech.registrations TO 'stellar_app'@'localhost';
-GRANT SELECT, INSERT ON stellar_tech.payments TO 'stellar_app'@'localhost';
-GRANT SELECT ON stellar_tech.courses TO 'stellar_app'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON stellar_tech.students TO 'stellar_app'@'127.0.0.1:3306';
+GRANT SELECT, INSERT, UPDATE ON stellar_tech.registrations TO 'stellar_app'@'127.0.0.1:3306';
+GRANT SELECT, INSERT ON stellar_tech.payments TO 'stellar_app'@'127.0.0.1:3306';
+GRANT SELECT ON stellar_tech.courses TO 'stellar_app'@'127.0.0.1:3306';
 
 -- Create admin user with full permissions
-CREATE USER 'stellar_admin'@'localhost' IDENTIFIED BY 'admin_strong_password';
-GRANT ALL PRIVILEGES ON stellar_tech.* TO 'stellar_admin'@'localhost';
+CREATE USER 'stellar_admin'@'127.0.0.1:3306' IDENTIFIED BY 'admin_strong_password';
+GRANT ALL PRIVILEGES ON stellar_tech.* TO 'stellar_admin'@'127.0.0.1:3306';
 
 -- Add indexes for better performance and security
 ALTER TABLE students ADD INDEX idx_email (email);
