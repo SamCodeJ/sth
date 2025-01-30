@@ -285,10 +285,9 @@ if (isset($_GET['filter'])) {
 
             <div class="page-header">
                 <h1>Webinar Registrations</h1>
-                <a href="export-webinar.php" class="btn btn-primary">
-                    <i class="fas fa-download"></i>
-                    Export Data
-                </a>
+                <button class="btn btn-primary" onclick="window.location.href='export-webinars.php'">
+                    <i class="fas fa-download"></i> Export Data
+                </button>
             </div>
 
             <div class="stats-container">

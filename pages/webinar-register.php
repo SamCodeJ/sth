@@ -180,9 +180,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <i class="fas fa-spinner fa-spin"></i> Registering...
                         </span>
                     </button>
-                    <button type="reset" class="btn-reset">
-                        <i class="fas fa-undo"></i> Clear Form
-                    </button>
                 </div>
             </form>
         </div>
@@ -268,8 +265,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     .form-actions {
-        display: flex;
-        gap: 15px;
         margin-top: 30px;
     }
 
@@ -288,9 +283,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     .btn-submit {
+        width: 100%;
+        padding: 15px 30px;
         background: #3498db;
-        color: #fff;
-        flex: 2;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 18px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
     }
 
     .btn-reset {
@@ -306,6 +311,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     .btn-reset:hover {
         background: #e0e0e0;
+    }
+
+    .btn-submit:disabled {
+        background: #95a5a6;
+        cursor: not-allowed;
     }
 
     .alert {
