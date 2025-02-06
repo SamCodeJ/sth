@@ -16,5 +16,5 @@
         <a href="contact.php" class="cta-button">Start Project</a>
     </div>
 </main>
-
+<script src="../script.js"></script>
 <?php include '../components/footer.php'; ?> 

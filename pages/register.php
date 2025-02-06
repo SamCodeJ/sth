@@ -163,7 +163,7 @@ include '../components/pages_header.php';
         </div>
     </section>
 </main>
-
+<script src="../script.js"></script>
 <?php include '../components/footer.php'; ?>
 
 <!-- Add JavaScript for form handling -->

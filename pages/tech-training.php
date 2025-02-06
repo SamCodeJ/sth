@@ -16,5 +16,5 @@
         <a href="register.php" class="cta-button">Enroll Now</a>
     </div>
 </main>
-
+<script src="../script.js"></script>
 <?php include '../components/footer.php'; ?> 
