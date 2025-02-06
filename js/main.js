@@ -42,38 +42,24 @@ document.addEventListener('DOMContentLoaded', function() {
 function initHamburgerMenu() {
     console.log('Initializing hamburger menu...');
     
-    // Try different possible selectors
-    const hamburger = document.querySelector('.hamburger') || 
-                     document.querySelector('.mobile-menu-btn') ||
-                     document.querySelector('#menuToggle');
-                     
-    const navLinks = document.querySelector('.nav-links') || 
-                    document.querySelector('.mobile-nav') ||
-                    document.querySelector('#mobileMenu');
+    const hamburger = document.querySelector('.hamburger');
+    const navMenu = document.querySelector('.nav-menu');
 
-    if (!hamburger || !navLinks) {
+    if (!hamburger || !navMenu) {
         console.warn('Menu elements not found');
         return;
     }
 
-    // Define toggleMenu function globally
-    window.toggleMenu = function() {
+    hamburger.addEventListener('click', () => {
         hamburger.classList.toggle('active');
-        navLinks.classList.toggle('active');
-    }
-
-    hamburger.addEventListener('click', (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-        toggleMenu();
+        navMenu.classList.toggle('active');
     });
 
-    // Close menu when clicking outside
-    document.addEventListener('click', (e) => {
-        if (!hamburger.contains(e.target) && !navLinks.contains(e.target)) {
+    document.querySelectorAll('.nav-link').forEach(n => {
+        n.addEventListener('click', () => {
             hamburger.classList.remove('active');
-            navLinks.classList.remove('active');
-        }
+            navMenu.classList.remove('active');
+        });
     });
 }
 
@@ -146,11 +132,11 @@ function initSlider() {
 function initFloatingButton() {
     console.log('Initializing floating button...');
     
-    const floatingButton = document.createElement('a');
-    floatingButton.className = 'floating-contact-btn';
-    floatingButton.href = 'pages/info.php';  // Updated path
-    floatingButton.innerHTML = '<i class="fas fa-envelope"></i>';
-    floatingButton.setAttribute('title', 'Contact Us');
+    // const floatingButton = document.createElement('a');
+    // floatingButton.className = 'floating-contact-btn';
+    // floatingButton.href = 'pages/info.php';  // Updated path
+    // // floatingButton.innerHTML = '<i class="fas fa-envelope"></i>';
+    // floatingButton.setAttribute('title', 'Contact Us');
     
     document.body.appendChild(floatingButton);
     console.log('Floating button added to DOM');

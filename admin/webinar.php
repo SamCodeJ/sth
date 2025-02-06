@@ -100,13 +100,13 @@ if (isset($_GET['filter'])) {
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Webinar Registrations - Tech Training</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="css/admin.css">
+    <title>Webinar Management - Admin</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         .webinar-controls {
             display: flex;
@@ -285,10 +285,9 @@ if (isset($_GET['filter'])) {
 
             <div class="page-header">
                 <h1>Webinar Registrations</h1>
-                <a href="export-webinar.php" class="btn btn-primary">
-                    <i class="fas fa-download"></i>
-                    Export Data
-                </a>
+                <button class="btn btn-primary" onclick="window.location.href='export-webinars.php'">
+                    <i class="fas fa-download"></i> Export Data
+                </button>
             </div>
 
             <div class="stats-container">
@@ -400,5 +399,7 @@ if (isset($_GET['filter'])) {
             </div>
         </div>
     </div>
+
+
 </body>
 </html> 

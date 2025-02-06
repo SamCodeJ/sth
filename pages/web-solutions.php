@@ -16,5 +16,5 @@
         <a href="contact.php" class="cta-button">Get a Quote</a>
     </div>
 </main>
-
+<script src="../script.js"></script>
 <?php include '../components/footer.php'; ?> 

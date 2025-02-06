@@ -25,7 +25,7 @@ class EmailService {
             $this->mailer->isSMTP();
             $this->mailer->Host = 'smtp.hostinger.com';
             $this->mailer->SMTPAuth = true;
-            $this->mailer->Username = 'registration@stellartechub.com';
+            $this->mailer->Username = 'registration@stellartechhub.com';
             $this->mailer->Password = 'u&4au#eZJnEC'; // Make sure this is correct
             $this->mailer->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // Changed to SMTPS for port 465
             $this->mailer->Port = 465;
@@ -34,7 +34,7 @@ class EmailService {
             $this->mailer->SMTPDebug = 2; // Add this temporarily for debugging
             
             // Default sender
-            $this->mailer->setFrom('registration@stellartechub.com', 'Stellar Tech Hub');
+            $this->mailer->setFrom('registration@stellartechhub.com', 'Stellar Tech Hub');
             $this->mailer->isHTML(true);
         } catch (Exception $e) {
             error_log("Mailer setup failed: " . $e->getMessage());

@@ -196,4 +196,61 @@
     .webinar-register-grid {
         grid-template-columns: 1fr;
     }
-} 
+}
+
+:root {
+    /* Light theme variables */
+    --bg-color: #f5f6fa;
+    --text-color: #2c3e50;
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --danger-color: #e74c3c;
+    --card-bg: #ffffff;
+    --border-color: #e0e0e0;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme="dark"] {
+    /* Dark theme variables */
+    --bg-color: #1a1a1a;
+    --text-color: #ffffff;
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --danger-color: #e74c3c;
+    --card-bg: #2c2c2c;
+    --border-color: #404040;
+    --shadow-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Apply theme variables */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: all 0.3s ease;
+}
+
+.webinar-registration,
+.stat-card,
+.registrations-table,
+.webinar-form {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+}
+
+input, 
+select, 
+textarea {
+    background-color: var(--card-bg);
+    color: var(--text-color);
+    border-color: var(--border-color);
+}
+
+/* Add more theme-aware styles as needed */
+
+/* Add these theme-specific styles to your existing styles */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+/* ... rest of the theme styles ... */ 
